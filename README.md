@@ -1,2 +1,2 @@
 # S200-Hackintosh-OpenCore
-S200 NUC Hackintosh with OpenCore
+S200 NUC Hackintosh with OpenCore & MacOS Ventura
